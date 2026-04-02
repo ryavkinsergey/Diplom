@@ -1,0 +1,7 @@
+allure-python-commons
+pytest
+selenium
+requests
+allure-pytest
+pytest-xdist
+webdriver-manager
